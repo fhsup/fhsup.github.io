@@ -1,0 +1,33 @@
+  defaulthint: Plus d'informations 
+  portfolioitems:
+  # portfolio category
+  - title: Thèse de Doctorat - Architecture robotique et cognitive pour l'apprentissage de tâches en interaction avec l'humain | [Au laboratoire LISPEN, ENSAM, FRANCE](https://lispen.ensam.eu/) 
+    portfolioitem:
+      - name: Apprendre les synergies entre saisir et pousser de manière autonome   
+        image: '/images/projects/vpg/vpg.png'
+        link: '/fr/projects/learning-synergies'
+        description: Avec Laurent Bimont, Stéphane Thiery, Éric Nyiri et Olivier Gibaru. Adaptation d'un article de recherche [Zeng and al., 2018](https://vpg.cs.princeton.edu/)
+        tags:
+          - Apprentissage par renforcement 
+          - Préhension sans CAO
+          - Apprentissage profond
+          - Robots collaboratifs industriels 
+      - name: Apprentissage de la préhension en montrant des zones autorisées et interdites
+        image: '/images/projects/demonstration/several_objects_grasping_affordance.jpeg'
+        link: '/fr/projects/learning-grasping' 
+        description: Avec Laurent Bimont, Stéphane Thiery, Éric Nyiri et Olivier Gibaru 
+        tags:
+          - Apprentissage d'affordance de préhension
+          - Robots collaboratifs industriels 
+          - Préhension sans CAO
+          - Apprentissage profond
+      - name: Architecture cognitive pour la robotique  
+        image: '/images//projects/architecture/high_level_overview.svg'
+        link: '/fr/projects/cognitive-robotic-architecture'
+        description: Avec Stéphane Thiery, Éric Nyiri et Olivier Gibaru.
+        tags:
+          - Architecture cognitive
+          - Architecture hybride
+          - Arbre de comportements
+          - Interaction homme/robot 
+          - Apprentissage de tâches 

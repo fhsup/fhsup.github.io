@@ -1,0 +1,34 @@
+profilePicture = "images/profile/selfie_profile.jpg"
+profileLogo = "images/profile/human_robot_interaction_icon.svg"
+title = "François Hélénon"
+mainSections = []
+doNotLoadAnimations = false
+
+customCss = ["css/custom.css"]
+
+favicon = "/favicons/"
+
+cvPath = "cv/cv.pdf"
+
+# [[socialIcons]]
+# icon = "cv-icon"
+# title = "Curriculum"
+# url = "/cv/cv.pdf"
+
+[[socialIcons]]
+icon = "fab fa-linkedin"
+title = "Linkedin"
+url = "https://www.linkedin.com/in/fran%C3%A7ois-h%C3%A9l%C3%A9non-b402ab218/"
+
+
+[[socialIcons]]
+icon = "fas fa-envelope"
+title = "e-mail"
+url = "mailto:francois@wanadoo.fr"
+
+
+[[socialIcons]]
+icon = "fab fa-researchgate"
+title = "researchgate"
+url = "https://www.researchgate.net/profile/Francois-Helenon"
+

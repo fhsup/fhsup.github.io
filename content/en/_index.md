@@ -1,0 +1,24 @@
+
++++
+author = ["fhelenon"]
+draft = false 
++++
+
+
+**Hi, I am François Hélénon and in January 2022, I received my Ph.D. from HESAM University France. Supervised by Prof. Olivier Gibaru, Dr. Stephane Thiery and Dr. Eric Nyiri in [LISPEN laboratory](https://lispen.ensam.eu/), we designed of a prototype of hybrid cognitive architecture for human interaction with industrial collaborative robots. The approach was based on the integration of symbolic (semantic graph representations) and connectionist (deep neural network learning) approaches and aimed allowing non-experts in robotics to teach new tasks to a robot.** 
+
+**My interest lies in artificial intelligence within the human/robot collaboration scope, from learning to task planning under uncertainty. Behavior Trees and their extensions seem a promising way to build efficient robotics architectures integrating learning and reasoning with humans in the loop.** 
+
+---
+
+**SKILLS**
+
+- Language: English (professional) | German (intermediate) | French (mother tongue)
+- Software: 
+  - Machine learning: Python (keras, tensorflow, numpy, scikit-learn)
+  - Vision: OpenCV
+  - Robotics: ROS, C++, simulation notions (Vrep, Unity, CAD modeling)
+  - Documents: Latex/Beamer/TikZ, Microsoft Office
+  - Development: Linux, Emacs, Git, Docker
+- Soft skills: Student project management, research communications and vulgarisation
+- Hobbies: Choir singing, Classical guitar

@@ -1,0 +1,19 @@
+[[main]]
+name = "Home"
+identifier = "home"
+weight = 100
+url = "/en"
+
+
+[[main]]
+name = "Portfolio"
+weight = 300
+identifier = "portfolio"
+url = "/en/portfolio/"
+
+
+[[main]]
+name = "List of Publications"
+weight = 500
+identifier = "publications"
+url = "/en/publications"

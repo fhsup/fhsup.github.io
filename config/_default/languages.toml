@@ -1,0 +1,17 @@
+[en]
+LanguageName = "🇬🇧 EN"
+description = "Ph.D. in cognitive robotics for human/robot collaboration"
+copyright = "{{ YEAR }}-François Hélénon. Powered by [Hugo](https://gohugo.io/) and [Anatole](https://github.com/lxndrblz/anatole/) theme"
+title = "François Hélénon"
+weight = 1
+locale="en-us"
+contentDir="content/en"
+
+[fr]
+LanguageName = "🇫🇷 FR"
+title = "François Hélénon"
+copyright = "{{ YEAR }}-François Hélénon. Produit via [Hugo](https://gohugo.io/) et le thème [Anatole](https://github.com/lxndrblz/anatole/)"
+description = "Ph.D. en robotique cognitive pour la collaboration homme-robot"
+weight = 1
+locale="fr-fr"
+contentDir="content/fr"

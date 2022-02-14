@@ -1,0 +1,29 @@
+  portfolioitems:
+  # portfolio category
+  - title: Ph.D. Thesis - Cognitive robotic architecture for human-aware interactive task learning | [AT LISPEN Laboratory, ENSAM, FRANCE](https://lispen.ensam.eu/) 
+    portfolioitem:
+      - name: Learning grasping from authorised and prohibited demonstrations 
+        image: '/images/projects/demonstration/several_objects_grasping_affordance.jpeg'
+        link: '/en/projects/learning-grasping' 
+        description: Work jointly done with Laurent Bimont, Stéphane Thiery, Éric Nyiri and Olivier Gibaru 
+        tags:
+          - Learning from Demonstrations 
+          - Affordance learning
+          - Industrial collaborative robots 
+          - CAD-free grasping
+          - Deep Learning
+      - name: Learning synergies between grasping and pushing in an autonomous way   
+        image: '/images/projects/vpg/vpg.png'
+        link: '/en/projects/learning-synergies'
+        description: Joint work with Laurent Bimont, Stéphane Thiery, Éric Nyiri and Olivier Gibaru. Adaptation of a research paper from [Zeng and al., 2018](https://vpg.cs.princeton.edu/)
+        tags:
+          - Reinforcement Learning 
+          - CAD-free grasping
+          - Deep Learning
+          - Industrial collaborative robots 
+      - name: Cognitive and robotic architecture  
+        image: '/images//projects/architecture/high_level_overview.svg'
+        link: '/en/projects/cognitive-robotic-architecture'
+        description: 'Joint work with Stéphane Thiery, Éric Nyiri and Olivier Gibaru.'
+        tags:
+          - Cognitive architecture 

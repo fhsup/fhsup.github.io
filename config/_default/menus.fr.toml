@@ -1,0 +1,18 @@
+[[main]]
+name = "Accueil"
+identifier = "home"
+weight = 100
+url = "/fr"
+
+
+[[main]]
+name = "Projets"
+weight = 300
+identifier = "portfolio"
+url = "/fr/portfolio/"
+
+[[main]]
+name = "Liste des Publications"
+weight = 500
+identifier = "publications"
+url = "/fr/publications"
