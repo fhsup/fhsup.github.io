@@ -12,7 +12,7 @@ draft = false
 ---
 
 
-**COMPÉTENCES**
+**COMPÉTENCES PRATIQUES**
 - Langues : Anglais (professionnel) | Allemand (intermédiaire) | Français (maternelle)
 - Logiciels : 
   - Machine learning : Python (Keras, Tensorflow, Numpy, Scikit-Learn)
