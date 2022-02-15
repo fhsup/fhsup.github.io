@@ -1,35 +1,18 @@
 +++
 author = "François Hélénon"
-title = "Learning synergies between grasping and pushing in an autonomous way"
+title = "Apprendre les synergies entre saisir et pousser de manière autonome "
 date = "2019-03-102022-01-24"
-description = "Learning synergies between grasping and pushing in an autonomous way"
+description = "Apprendre les synergies entre saisir et pousser de manière autonome "
 tags = [
 ]
 +++
 
-*Work jointly done with Laurent Bimont, Stéphane Thiery, Éric Nyiri and Olivier Gibaru*
+*Avec Laurent Bimont, Stéphane Thiery, Éric Nyiri et Olivier Gibaru*.
    
-  The bin picking use case is a typical example of action where it can be hard to explain procedurally how to carry it out. Actually, explaining in a procedural manner how to carry out such a task is hard even for a human. We could hardly explicit why we would spread a heap of object in one way rather than in another way. Still, we have some goal which is to pick all the parts. 
+  Le cas du dévracage est un exemple typique de tâche pour laquelle il peut être difficile d'expliquer de manière procédurale comment la réaliser, même pour un humain. Il n'est pas facile en effet d'expliquer pourquoi un tas d'objets doit être éparpiller d'une certaine manière plutôt qu'une autre.
 
-  Reinforcement learning fit well to learn such task in an autonomous way. Therefore, we reproduced [Zeng and al., 2018](https://vpg.cs.princeton.edu/) and have extended it experimentally to our industrial context. We addressed the bin picking problems as an autonomous reinforcement learning strategy where the robot agent learns synergies between pushing and grasping. Moreover, the use of reinforcement and deep learning allows the robot to learn to pick-up parts without the need of any CAD model. This is important as collaborative robots can be expected to work with parts that were not modeled by CAD specialists, especially in small scale industry.
+  L'apprentissage par renforcement convient bien pour apprendre une telle tâche de manière autonome. Nous avons donc reproduit [Zeng et al., 2018](https://vpg.cs.princeton.edu/) et l'avons étendu expérimentalement à notre contexte industriel. Nous avons abordé les problèmes de dévracage comme une stratégie d'apprentissage par renforcement où l'agent robotique apprend des synergies entre d'action entre poussée et préhension. De plus, l'utilisation de l'apprentissage par renforcement et de l'apprentissage profond permet au robot d'apprendre à ramasser des pièces sans avoir besoin d'un modèle CAO, à partir d'un simple capteur de profondeur. Ceci est important car les robots collaboratifs peuvent être amenés à travailler avec des pièces qui n'ont pas été modélisées par des spécialistes de la CAO, comme dans certains cas de petites séries.
 
   
-  ![Learning pipeline by reinforcement learning](/images/projects/vpg/pipeline_soft.png) 
-
-
-
-<!-- NEVER GONNA GIVE YOU UP NEVER GONNA GIVE YOU UP NEVER GONNA GIVE YOU UP NEVER GONNA GIVE YOU UP -->
-<!-- NEVER GONNA GIVE YOU UP NEVER GONNA GIVE YOU UP NEVER GONNA GIVE YOU UP NEVER GONNA GIVE YOU UP -->
-<!-- NEVER GONNA GIVE YOU UP NEVER GONNA GIVE YOU UP NEVER GONNA GIVE YOU UP NEVER GONNA GIVE YOU UP -->
-<!-- NEVER GONNA GIVE YOU UP NEVER GONNA GIVE YOU UP NEVER GONNA GIVE YOU UP NEVER GONNA GIVE YOU UP -->
-<!-- NEVER GONNA GIVE YOU UP NEVER GONNA GIVE YOU UP NEVER GONNA GIVE YOU UP NEVER GONNA GIVE YOU UP -->
-<!-- NEVER GONNA GIVE YOU UP NEVER GONNA GIVE YOU UP NEVER GONNA GIVE YOU UP NEVER GONNA GIVE YOU UP -->
-<!-- NEVER GONNA GIVE YOU UP NEVER GONNA GIVE YOU UP NEVER GONNA GIVE YOU UP NEVER GONNA GIVE YOU UP -->
-<!-- NEVER GONNA GIVE YOU UP NEVER GONNA GIVE YOU UP NEVER GONNA GIVE YOU UP NEVER GONNA GIVE YOU UP -->
-<!-- NEVER GONNA GIVE YOU UP NEVER GONNA GIVE YOU UP NEVER GONNA GIVE YOU UP NEVER GONNA GIVE YOU UP -->
-<!-- NEVER GONNA GIVE YOU UP NEVER GONNA GIVE YOU UP NEVER GONNA GIVE YOU UP NEVER GONNA GIVE YOU UP -->
-<!-- NEVER GONNA GIVE YOU UP NEVER GONNA GIVE YOU UP NEVER GONNA GIVE YOU UP NEVER GONNA GIVE YOU UP -->
-<!-- NEVER GONNA GIVE YOU UP NEVER GONNA GIVE YOU UP NEVER GONNA GIVE YOU UP NEVER GONNA GIVE YOU UP -->
-
-<!-- {{< youtube  dQw4w9WgXcQ>}} -->
+  ![Pipeline d'apprentissage par apprentissage par renforcement](/images/projects/vpg/pipeline_soft.png) 
 

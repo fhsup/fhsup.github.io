@@ -11,7 +11,11 @@
           - Reinforcement Learning 
           - CAD-free grasping
           - Deep Learning
-          - Industrial collaborative robots 
+          - Industrial collaborative robots
+          - Python
+          - Tensorflow
+          - Keras
+
       - name: Learning grasping from authorised and prohibited demonstrations 
         image: '/images/projects/demonstration/several_objects_grasping_affordance.jpeg'
         link: '/en/projects/learning-grasping' 
@@ -22,6 +26,10 @@
           - Industrial collaborative robots 
           - CAD-free grasping
           - Deep Learning
+          - Python
+          - Tensorflow
+          - Keras
+
       - name: Cognitive and robotic architecture  
         image: '/images//projects/architecture/high_level_overview.svg'
         link: '/en/projects/cognitive-robotic-architecture'
@@ -32,4 +40,6 @@
           - Behavior tree
           - Human/robot interaction 
           - Task learning 
-        
+          - ROS
+          - Python
+       

@@ -1,41 +1,35 @@
 +++
 author = "François Hélénon"
-title = "Cognitive robotic architecture for learning from  interaction"
+title = "Architecture cognitive pour la robotique"
 date = "2019-03-102022-01-24"
-description = "Cognitive robotic architecture for learning from  interaction"
-tags = [
-    "cognitive architecture",
-    "learning by demonstration",
-]
+description = "Architecture cognitive pour la robotique"
 +++
 
  
-*Collaborative work with  Stéphane Thiery, Éric Nyiri and Olivier Gibaru*
+*Avec Stéphane Thiery, Éric Nyiri et Olivier Gibaru*.
 
-This work led to a publication as a [conference article](https://doi.org/10.1145/3471985.3472385) at ICRCA 2021.
-
-
-In recent years, industrial robots have become more collaborative thanks to better sensors and higher level programming libraries. Yet, in real world scenarios,
-flexibility and interaction abilities of robots remains far from the natural interaction between two human co-workers. Thus, we are developing a smart robot agent (SRA)
-that can incrementally learn with a human in a teacher/learner setting called Interactive Task Learning (ITL).
-
-This video presents a high level overview and first prototype of this architecture for Industry 4.0.
-It is validated on a real Universal robot (UR10e) : an operator teaches the robot the task "give object".
+Ce travail a conduit à une publication en tant qu'[article de conférence](https://doi.org/10.1145/3471985.3472385) à ICRCA 2021.
 
 
-Video main sections : 
+Ces dernières années, les robots industriels sont devenus plus collaboratifs grâce à de meilleurs capteurs et des bibliothèques de programmation de plus haut niveau. Pourtant, dans les scénarios du monde réel, la flexibilité et les capacités d'interaction des robots restent éloigné de l'interaction naturelle entre deux collègues humains. Ainsi, nous avons développé un prototype d'agent robotique intelligent (SRA) qui peut apprendre de manière incrémentielle avec un humain dans un cadre enseignant/apprenant appelé apprentissage interactif de tâches (ITL).
 
-*0:00* Robots as smart assistants for Industry 4.0
+Cette vidéo présente un aperçu de haut niveau et un premier prototype de cette architecture pour l'industrie 4.0.
+Elle est validée sur un vrai robot Universal (UR10e) : un opérateur apprend au robot la tâche " donner un objet ".
+
+
+Principales sections de la vidéo : 
+
+*0:00* Les robots en tant qu'assistants intelligents pour l'industrie 4.0.
      
-*1:29* Why a robotic architecture ?
+*1:29* Pourquoi une architecture robotique ?
      
-*2:12* Towards an Interactive Task Learner
+*2:12* Vers un apprenant interactif de tâches
      
-*3:15* High level overview of the architecture 
+*3:15* Aperçu de l'architecture de haut niveau 
     
-*4:00* Representations choices through an example   
+*4:00* Choix des représentations à travers un exemple   
      
-*9:00* Validation on a real robotic system 
+*9:00* Validation sur un système robotique réel 
 
 *10:40* Perspectives
 

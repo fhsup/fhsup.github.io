@@ -1,24 +1,24 @@
 +++
 author = "François Hélénon"
-title = "Learning grasping from authorised and prohibited demonstrations"
+title = "Apprentissage de la préhension en montrant des zones autorisées et interdites"
 date = "2019-03-102022-01-24"
-description = "Learning grasping from authorised and prohibited demonstrations"
+description = "Apprentissage de la préhension en montrant des zones autorisées et interdites"
 tags = [
 ]
 +++
 
-*Work jointly done with Laurent Bimont, Stéphane Thiery, Éric Nyiri and Olivier Gibaru*
+*Avec Laurent Bimont, Stéphane Thiery, Éric Nyiri et Olivier Gibaru*.
 
-This work led to a publication as a [conference article](https://doi.org/10/gk8djs) at RO-MAN 2020.
+Ce travail a conduit à une publication en tant qu'[article de conférence](https://doi.org/10/gk8djs) à RO-MAN 2020.
 
 
-Our motivation is to ease robots’ reconfiguration for pick and place tasks in an industrial context. We propose a fast learner neural network model trained from one or a few demonstrations in less than 5 minutes, able to efficiently predict grasping locations on a specific object.
+La motivation de ce travail est de faciliter la reconfiguration des robots pour des tâches de pick and place dans un contexte industriel. Nous avons proposé un modèle basé sur un réseau de neurones, apprenant rapidement à partir d'une ou de quelques démonstrations en moins de 5 minutes, capable de prédire efficacement les emplacements de préhension sur un objet spécifique.
 
-The proposed methodology is easy to apply in an industrial context as it is exclusively based on the operator’s demonstrations and does not require a CAD model, existing database or simulator. As predictions of a neural network can be erroneous especially when trained with very few data, we propose to indicate both authorised and prohibited locations for safety reasons. It allows us to handle fragile objects or to perform task-oriented grasping.
+La méthodologie proposée est facile à appliquer dans un contexte industriel car elle est exclusivement basée sur les démonstrations de l'opérateur et ne nécessite pas de modèle CAO, de base de données existante ou de simulateur. Comme les prédictions d'un réseau de neurones peuvent être erronées surtout lorsqu'il est entraîné avec très peu de données, nous proposons d'indiquer les emplacements autorisés et interdits pour des raisons de sécurité. Cela nous permet de manipuler des objets fragiles ou d'effectuer une préhension orientée tâche.
 
-Our model learns the semantic representation of objects (prohibited/authorised) thanks to a simplified data representation, a simplified neural network architecture and an adequate training framework. 
+Notre modèle apprend la représentation sémantique des objets (interdit/autorisé) grâce à une représentation simplifiée des données, une architecture de réseau de neurones simplifiée et un cadre d'apprentissage adéquat. 
 
-We trained specific networks for different objects and conducted experiments on a real 7-DOF robot which showed good performances (70 to 100% depending on the object), using only one demonstration. The proposed model is able to generalise well as performances remain good even when grasping several similar objects with the same network trained on one of them.
+Nous avons entraîné des réseaux spécifiques pour différents objets et mené des expériences sur un vrai robot industriel (7-DOF) qui a montré de bonnes performances (70 à 100% selon l'objet), en utilisant une seule démonstration. Le modèle proposé est capable de généraliser car les performances restent bonnes même en saisissant des objets similaires à celui avec lequel le réseau a été entraîné.
 
 {{< youtube  1UjehV1RCLc>}}
 

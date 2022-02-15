@@ -3,10 +3,6 @@ author = "François Hélénon"
 title = "Cognitive robotic architecture for learning from  interaction"
 date = "2019-03-102022-01-24"
 description = "Cognitive robotic architecture for learning from  interaction"
-tags = [
-    "cognitive architecture",
-    "learning by demonstration",
-]
 +++
 
  

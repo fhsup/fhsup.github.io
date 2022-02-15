@@ -11,7 +11,10 @@
           - Apprentissage par renforcement 
           - Préhension sans CAO
           - Apprentissage profond
-          - Robots collaboratifs industriels 
+          - Robots collaboratifs industriels
+          - Python
+          - Tensorflow
+          - Keras
       - name: Apprentissage de la préhension en montrant des zones autorisées et interdites
         image: '/images/projects/demonstration/several_objects_grasping_affordance.jpeg'
         link: '/fr/projects/learning-grasping' 
@@ -21,6 +24,10 @@
           - Robots collaboratifs industriels 
           - Préhension sans CAO
           - Apprentissage profond
+          - Python
+          - Tensorflow
+          - Keras
+
       - name: Architecture cognitive pour la robotique  
         image: '/images//projects/architecture/high_level_overview.svg'
         link: '/fr/projects/cognitive-robotic-architecture'
@@ -30,4 +37,6 @@
           - Architecture hybride
           - Arbre de comportements
           - Interaction homme/robot 
-          - Apprentissage de tâches 
+          - Apprentissage de tâches
+          - ROS
+          - Python
