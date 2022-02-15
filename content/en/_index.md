@@ -11,7 +11,7 @@ draft = false
 
 ---
 
-**SKILLS**
+**PRACTICAL SKILLS**
 
 - Language: English (professional) | German (intermediate) | French (mother tongue)
 - Software: 
