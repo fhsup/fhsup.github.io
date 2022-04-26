@@ -6,6 +6,8 @@ title = "François Hélénon"
 weight = 1
 locale="en-us"
 contentDir="content/en"
+cvPath="https://drive.google.com/file/d/1RZegOJIQZXBngoUr1W-5Oqkp4ieRofmn/view?usp=sharing"
+
 
 [fr]
 LanguageName = "🇫🇷 FR"
@@ -15,3 +17,4 @@ description = "Ph.D. en robotique cognitive pour la collaboration homme-robot"
 weight = 1
 locale="fr-fr"
 contentDir="content/fr"
+cvPath="https://drive.google.com/file/d/1lLKwqZgP7-DQZry5wU7a_IxOoAjl2sXS/view?usp=sharing"

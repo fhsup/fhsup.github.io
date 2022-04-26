@@ -8,7 +8,8 @@ customCss = ["css/custom.css"]
 
 favicon = "/favicons/"
 
-cvPath = "cv/cv.pdf"
+
+# cvPath = "cv/cv.pdf"
 
 # [[socialIcons]]
 # icon = "cv-icon"
