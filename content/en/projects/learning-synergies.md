@@ -13,6 +13,7 @@ tags = [
 
   Reinforcement learning is well suited to learn such a task autonomously. We therefore replicated [Zeng et al., 2018](https://vpg.cs.princeton.edu/) and extended it experimentally to our industrial setting. We approached the bin picking problems as a reinforcement learning strategy where the robotic agent learns from the synergies between push and grasp action. In addition, the use of reinforcement learning and deep learning allows the robot to learn to pick up parts without the need for a CAD model, from a simple depth sensor. This is important because collaborative robots may have to work with parts that have not been modeled by CAD specialists, such as in some cases of small scale series.
 
-  ![Learning pipeline by reinforcement learning](/images/projects/vpg/pipeline_soft.png) 
+ {{<youtube T592ye7RPxQ>}}
+
 
 
