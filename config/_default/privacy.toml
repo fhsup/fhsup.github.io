@@ -1,7 +1,7 @@
 [googleAnalytics]
-    anonymizeIP = false
-    disable = false
-    respectDoNotTrack = false
+    anonymizeIP = true 
+    disable = false 
+    respectDoNotTrack = true 
     useSessionStorage = false
 [youtube]
     disable = false 

@@ -43,3 +43,16 @@
           - ROS
           - Python
        
+      - name: Adaptation to some human preferences 
+        image: '/images//projects/architecture/high_level_overview.svg'
+        link: '/en/projects/cognitive-robotic-architecture-preferences'
+        description: 'Joint work with Stéphane Thiery, Éric Nyiri and Olivier Gibaru.'
+        tags:
+          - Cognitive architecture
+          - Hybrid architecture
+          - Behavior tree
+          - Human/robot interaction
+          - Human preferences
+          - Task learning 
+          - ROS
+          - Python

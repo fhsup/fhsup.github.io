@@ -40,3 +40,17 @@
           - Apprentissage de tâches
           - ROS
           - Python
+
+      - name: Adaptation aux préférences 
+        image: '/images//projects/architecture/high_level_overview.svg'
+        link: '/fr/projects/cognitive-robotic-architecture-preferences'
+        description: 'Joint work with Stéphane Thiery, Éric Nyiri and Olivier Gibaru.'
+        tags:
+          - Architecture cognitive
+          - Architecture hybride
+          - Arbre de comportements
+          - Interaction homme/robot 
+          - Apprentissage de tâches
+          - Préférences
+          - ROS
+          - Python
