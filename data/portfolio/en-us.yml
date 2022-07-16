@@ -44,7 +44,7 @@
           - Python
        
       - name: Adaptation to some human preferences 
-        image: '/images//projects/architecture/high_level_overview.svg'
+        image: '/images//projects/adaptation/illustration_adaptation.png'
         link: '/en/projects/cognitive-robotic-architecture-preferences'
         description: 'Joint work with Stéphane Thiery, Éric Nyiri and Olivier Gibaru.'
         tags:
